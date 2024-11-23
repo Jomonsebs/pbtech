@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:gtech/admin/dashboard.dart';
 import 'package:gtech/firebase_options.dart';
 import 'package:gtech/login.dart';
+import 'package:gtech/splashscreen.dart';
 import 'package:gtech/user/videosection.dart';
 
 
@@ -20,7 +21,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
     
-      home: LoginPage(),
+      home: SplashScreen(),
     );
   }
 }
