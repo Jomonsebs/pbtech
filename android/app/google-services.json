@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961258913777",
+    "project_id": "gteclms",
+    "storage_bucket": "gteclms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961258913777:android:a2d87ee86151a6489a8e50",
+        "android_client_info": {
+          "package_name": "com.example.gtech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDl5a-o3q7hCDg1iDK8i4bHIh2DVUp_e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
